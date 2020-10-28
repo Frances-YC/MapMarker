@@ -1,2 +1,2 @@
 # MapMarker
-Use the Gothe map api to accomplish the function of map marker and markers search. 
+Use the amap api to accomplish the function of map marker and markers search. 
